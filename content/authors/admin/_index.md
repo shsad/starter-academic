@@ -6,34 +6,34 @@ title: Shpresim Sadiku
 superuser: true
 
 # Role/position/tagline
-role: PhD in Mathematics
+role: PhD @TUBerlin, Scientific Assistant @ZuseInstitute
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: TU Berlin/ZIB
+  url: https://www.tu-berlin.de/?9003
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Theoretical Deep Learning
+- Explainable Artificial Intelligence (XAI)
+
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD, Mathematics
+    institution: Technical University of Berlin
+    year: 2024 (exp.)
+  - course: MSc, Mathematics in Data Science
+    institution: Technical University of Munich
+    year: 2020
+  - course: BSc, Mathematics
+    institution: University of Tirana
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
