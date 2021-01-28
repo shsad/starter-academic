@@ -76,4 +76,4 @@ I received an MSc in Mathematics in Data Science under the supervision of [Prof.
 
 My research interests lie in the interface of deep learning and optimal control, with a primary focus on developing efficient deep learning optimization algorithms of constant memory cost. Currently, I am using the Maximum Principle to study the (continuous) dynamical systems approach to deep learning.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/ssadiku.cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
