@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Adversarial Deformations for Neural Ordinary Differential Equations"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -26,10 +26,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+# publication: In *Wowchemy Conference*
+# publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Neural networks have celebrated impressive success in practice in many recognition and classification tasks. Mathematically, yet, their inner workings are poorly understood. Neural network architectures for object classification have been shown to be unstable to the so-called adversarial attacks, achieved by small perturbations of the correctly classified image, imperceptible for the human eye. This questions the usage of neural networks in safety and security critical applications. In this context, the thesis examines classical and modern results in neural networks partitioned into two key fragments.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
