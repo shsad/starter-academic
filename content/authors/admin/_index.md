@@ -11,7 +11,7 @@ role: PhD @TUBerlin, Scientific Assistant @ZuseInstitute
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: TU Berlin/ZIB
-  url: https://www.tu-berlin.de/?9003
+  url: https://iol.zib.de/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
