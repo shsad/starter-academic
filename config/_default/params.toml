@@ -93,7 +93,7 @@ email = "sadiku@zib.de"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Takustraße 7", city = "Berlin", postcode = "14195", country = "Germany", country_code = "DEU"}
+address = {street = "Takustraße 7", postcode = "14195", city = "Berlin", country = "Germany", country_code = "DEU"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
