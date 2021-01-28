@@ -18,7 +18,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Theoretical Deep Learning
+- Deep Learning
 - Explainable Artificial Intelligence (XAI)
 
 
