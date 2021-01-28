@@ -6,14 +6,14 @@ title: "An example conference paper"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2020-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Wowchemy Conference*
