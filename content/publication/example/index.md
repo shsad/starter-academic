@@ -31,8 +31,12 @@ publication_types: ["7"]
 
 abstract: Neural networks have celebrated impressive success in practice in many recognition and classification tasks. Mathematically, yet, their inner workings are poorly understood. Neural network architectures for object classification have been shown to be unstable to the so-called adversarial attacks, achieved by small perturbations of the correctly classified image, imperceptible for the human eye. This questions the usage of neural networks in safety and security critical applications. In this context, the thesis examines classical and modern results in neural networks partitioned into two key fragments.
 
+The first part exploits the algorithmic stability in a general setting while inspecting functions with good stability properties. Next, the emphasis is given to function classes represented by neural networks and their density within different function spaces under various assumptions on the activation function, to then motivate the efficiency of deep neural networks over the shallow neural networks.
+
+In the second part, instead of specifying a discrete sequence of hidden layers, the derivative of the hidden state is parameterized using a neural network. We present a concise optimal control optimization approach to such continuous-depth models by discussing ideas and algorithms derived from the optimality conditions of the powerful Pontryagin's Maximum Principle. The new emerging field of constant memory cost models, however, is vulnerable to adversarial attacks. Apart from highlighting the inconsistency of neural networks theoretically, we experiment with adversarial deformations for neural ordinary differential equations on MNIST and compare our results to convolutional neural-network based architectures.
+
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We present a concise optimal control optimization approach to continuous-depth deep learning models by discussing ideas and algorithms derived from the optimality conditions of the powerful Pontryagin's Maximum Principle. The new emerging field of constant memory cost models, however, is vulnerable to adversarial attacks. Apart from highlighting the inconsistency of neural networks theoretically, we experiment with adversarial deformations for neural ordinary differential equations on MNIST and compare our results to convolutional neural-network based architectures.
 
 tags: []
 
