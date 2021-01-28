@@ -70,8 +70,10 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a PhD candidate at the Institute of Mathematics, Technical University of Berlin, working under the supervision of Prof. Dr. Sebastian Pokutta. I am also affiliated with the Zuse Institute Berlin, where I hold a Scientific Assistant position.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I received an MSc in Mathematics in Data Science under the supervision of Prof. Dr. Michael Wolf at the Technical University of Munich in May 2020 and a BSc in Mathematics at the University of Tirana in July 2017.
+
+My research interests lie in the interface of deep learning and optimal control, with a primary focus on developing efficient deep learning optimization algorithms of constant memory cost. Currently, I am using the Maximum Principle to study the (continuous) dynamical systems approach to deep learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
