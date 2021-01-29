@@ -97,7 +97,7 @@ address = {street = "Takustraße 7", postcode = "14195", city = "Berlin", countr
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.456493", longitude = "13.298006"}
+coordinates = {latitude = "52.45622", longitude = "13.29811"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
