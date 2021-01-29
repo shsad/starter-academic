@@ -49,7 +49,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'http://www.cis.jhu.edu/~rvidal/talks/learning/DeepMath2020.pdf'
+url_slides: 'static/index.pdf'
 url_source: ''
 url_video: ''
 
