@@ -74,4 +74,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-slides:““
+slides: ""
