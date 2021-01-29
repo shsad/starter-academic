@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'http://www.cis.jhu.edu/~rvidal/talks/learning/DeepMath2020.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
