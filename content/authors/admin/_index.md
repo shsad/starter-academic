@@ -74,7 +74,7 @@ I am a PhD candidate at the Institute of Mathematics, Technical University of Be
 
 I received an MSc in Mathematics in Data Science under the supervision of [Prof. Dr. Michael Wolf](http://www-m5.ma.tum.de/Allgemeines/MichaelWolf) at the Technical University of Munich in May 2020 and a BSc in Mathematics at the University of Tirana in July 2017.
 
-My research interests lie in the interface of deep learning and optimal control, with a primary focus on developing efficient deep learning optimization algorithms of constant memory cost. Currently, I am using the Maximum Principle to study the (continuous) dynamical system approach to deep learning.
+My research interests lie at the interface of deep learning and optimal control, with a primary focus on developing efficient deep learning optimization algorithms of constant memory cost. Currently, I am using the Maximum Principle to study the (continuous) dynamical system approach to deep learning.
 
 
 My academic resumé can be found {{< staticref "media/ssadiku.cv.pdf" "newtab" >}}here{{< /staticref >}}.
