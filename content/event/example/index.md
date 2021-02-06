@@ -12,7 +12,7 @@ location: Berlin, Germany
 #  postcode: '94305'
 #  country: United States
 
-# summary: An example talk using Wowchemy's Markdown slides feature.
+summary: ""
 abstract: "We review classical and modern results in approximation theory of neural
 networks. First, the density of neural networks within different function
 spaces under various assumptions on the activation function is considered.
