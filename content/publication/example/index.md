@@ -49,7 +49,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'AISTATSPresentation.pdf'
+url_slides: 'ssadikuthesis.pdf'
 url_source: ''
 url_video: ''
 
