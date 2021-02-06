@@ -57,7 +57,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  caption: "Adversarial deformations for ODE-net (see thesis for details). First row: Original images from the MNIST test set. Second row: The deformed images."
+  caption: "Adversarial deformations for ODE-net. First row: Original images from the MNIST test set. Second row: The deformed images. See thesis for details"
   focal_point: ""
   preview_only: false
 
