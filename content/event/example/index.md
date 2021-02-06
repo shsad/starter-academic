@@ -1,19 +1,26 @@
 ---
-title: Example Talk
+title: Neural Network Approximation Theory
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: 9th BMS Student Conference
+# event_url: https://example.org
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Berlin, Germany
+# address:
+#  street: 450 Serra Mall
+#  city: Stanford
+#  region: CA
+#  postcode: '94305'
+#  country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+# summary: An example talk using Wowchemy's Markdown slides feature.
+abstract: "We review classical and modern results in approximation theory of neural
+networks. First, the density of neural networks within different function
+spaces under various assumptions on the activation function is considered.
+Next, lower and upper bounds on the order of approximation with neural
+networks are given based on the input dimension, the number of neurons
+and a parameter quantifying the smoothness of the target function. Lastly, a
+family of compositional target functions for which the curse of dimensionality
+can be overcome using deep neural networks is examined."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
