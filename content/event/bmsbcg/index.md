@@ -1,10 +1,10 @@
 ---
-title: Neural Network Approximation Theory
+title: From ResNets to Continuous-Depth Neural Network Models
 
-event: 9th BMS Student Conference
+event: 3rd BMS - BGSMath Junior Meeting
 # event_url: https://example.org
 
-location: Berlin, Germany
+location: Barcelona, Spain
 # address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -13,19 +13,12 @@ location: Berlin, Germany
 #  country: United States
 
 summary: " "
-abstract: "We review classical and modern results in approximation theory of neural
-networks. First, the density of neural networks within different function
-spaces under various assumptions on the activation function is considered.
-Next, lower and upper bounds on the order of approximation with neural
-networks are given based on the input dimension, the number of neurons
-and a parameter quantifying the smoothness of the target function. Lastly, a
-family of compositional target functions for which the curse of dimensionality
-can be overcome using deep neural networks is examined."
+abstract: " "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-03-04T10:30:00Z"
-date_end: "2021-03-04T15:11:00Z"
+date: "2021-09-01T09:00:00Z"
+date_end: "2021-09-03T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
