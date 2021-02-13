@@ -12,7 +12,8 @@ location: Berlin, Germany
 #  postcode: '94305'
 #  country: United States
 
-summary: " "
+summary: "We review classical and modern results in neural
+network approximation theory."
 abstract: "We review classical and modern results in approximation theory of neural
 networks. First, the density of neural networks within different function
 spaces under various assumptions on the activation function is considered.
@@ -24,8 +25,8 @@ can be overcome using deep neural networks is examined."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-03-04T09:00:00Z"
-date_end: "2021-03-05T15:00:00Z"
+date: "2021-03-04T10:30:00Z"
+date_end: "2021-03-04T15:11:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
