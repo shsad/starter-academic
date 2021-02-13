@@ -1,7 +1,7 @@
 ---
 title: Neural Network Approximation Theory
 
-event: 9th BMS Student Conference (Online)
+event: 9th BMS Student Conference (online)
 event_url: https://bmsstudconf.github.io/2021/talks.html
 
 location: Berlin, Germany
