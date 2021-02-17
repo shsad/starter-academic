@@ -1,6 +1,8 @@
 ---
 title: "Adversarial Deformations for Neural Ordinary Differential Equations"
 
+<div style="text-align: justify">
+  
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
@@ -30,7 +32,7 @@ publication_types: ["7"]
 # publication_short: In *ICW*
 
 
-abstract:  <center> We present a concise optimal control optimization approach to continuous-depth deep learning models by discussing ideas and algorithms derived from the optimality conditions of the powerful Pontryagin's Maximum Principle. The new emerging field of constant memory cost models, however, is vulnerable to adversarial attacks. Apart from highlighting the inconsistency of neural networks theoretically, we experiment with adversarial deformations for neural ordinary differential equations on MNIST and compare our results to convolutional neural-network based architectures. </center>
+abstract:  We present a concise optimal control optimization approach to continuous-depth deep learning models by discussing ideas and algorithms derived from the optimality conditions of the powerful Pontryagin's Maximum Principle. The new emerging field of constant memory cost models, however, is vulnerable to adversarial attacks. Apart from highlighting the inconsistency of neural networks theoretically, we experiment with adversarial deformations for neural ordinary differential equations on MNIST and compare our results to convolutional neural-network based architectures. 
 
 
 
