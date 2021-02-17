@@ -7,6 +7,7 @@ superuser: true
 
 # Role/position/tagline
 role: PhD @TUBerlin
+
       Scientific Assistant @ZuseInstitute
 
 # Organizations/Affiliations to show in About widget
