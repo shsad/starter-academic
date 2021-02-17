@@ -30,7 +30,7 @@ publication_types: ["7"]
 # publication_short: In *ICW*
 
 
-abstract:  <div style="text-align: justify"> aaaaaa </div>
+abstract:  <justify> aaaaaa </justify>
 
 
 
