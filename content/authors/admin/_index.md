@@ -71,7 +71,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a PhD candidate at the Institute of Mathematics, Technical University of Berlin, working under the supervision of [Prof. Dr. Sebastian Pokutta](http://www.pokutta.com/). I am also affiliated with the Zuse Institute Berlin, where I hold a Scientific Assistant position.
+<center> I am a PhD candidate at the Institute of Mathematics, Technical University of Berlin, working under the supervision of [Prof. Dr. Sebastian Pokutta](http://www.pokutta.com/). I am also affiliated with the Zuse Institute Berlin, where I hold a Scientific Assistant position. </center>
 
 I received an MSc in Mathematics in Data Science under the supervision of [Prof. Dr. Michael Wolf](http://www-m5.ma.tum.de/Allgemeines/MichaelWolf) at the Technical University of Munich in May 2020 and a BSc in Mathematics at the University of Tirana in July 2017.
 
