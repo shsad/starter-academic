@@ -11,8 +11,7 @@ title = "Shpresim Sadiku"
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = ""
-  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBmy8IT7h7ByFwQ4zDPTNMkYMBz5m5Kk8g&callback=initMap"
-  type="text/javascript"></script>
+ 
 
 
 # Enter a copyright notice to display in the site footer.
