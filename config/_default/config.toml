@@ -11,6 +11,8 @@ title = "Shpresim Sadiku"
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = ""
+key = "AIzaSyBmy8IT7h7ByFwQ4zDPTNMkYMBz5m5Kk8g"
+
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
