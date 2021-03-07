@@ -30,7 +30,7 @@ education:
     institution: Technische Universität Berlin
     year: 2024 (exp.)
   - course: MSc, Mathematics in Data Science
-    institution: Technichal University of Munich
+    institution: Technical University of Munich
     year: 2020
   - course: BSc, Mathematics
     institution: University of Tirana
