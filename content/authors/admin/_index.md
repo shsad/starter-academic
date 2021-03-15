@@ -6,7 +6,7 @@ title: Shpresim Sadiku
 superuser: true
 
 # Role/position/tagline
-role: <p> PhD @TUBerlin <br>
+role: <p> PhD @TUBerlin/BMS <br>
       Scientific Assistant @ZuseInstitute </p>
 
 # Organizations/Affiliations to show in About widget
