@@ -20,6 +20,7 @@ organizations:
 # Interests to show in About widget
 interests:
 - Theoretical Deep Learning
+- Robust Machine Learning
 - Explainable Artificial Intelligence (XAI)
 
 
