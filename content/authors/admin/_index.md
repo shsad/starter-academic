@@ -21,7 +21,7 @@ organizations:
 interests:
 - Theoretical Deep Learning
 - Robust Machine Learning
-- Explainable Artificial Intelligence (XAI)
+- Explainable Artificial Intelligence
 
 
 # Education to show in About widget
