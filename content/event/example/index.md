@@ -47,10 +47,10 @@ featured: false
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-url_code: "https://vimeo.com/576711115"
+url_code: ""
 url_pdf: ""
 url_slides: "bmspresentationsadiku.pdf"
-url_video: ""
+url_video: "https://vimeo.com/576711115"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
