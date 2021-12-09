@@ -4,7 +4,7 @@ title: Neural Network Approximation Theory
 event: 9th BMS Student Conference (online)
 event_url: https://bmsstudconf.github.io/2021/index.html
 
-location: Berlin, Germany
+location: Ber, Germany
 # address:
 #  street: 450 Serra Mall
 #  city: Stanford
