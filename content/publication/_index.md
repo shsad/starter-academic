@@ -1,5 +1,5 @@
 ---
-title: Publications & Upcoming Talks
+title: Publicationsaa
 cms_exclude: true
 
 # View.
