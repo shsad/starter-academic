@@ -1,8 +1,8 @@
 ---
-title: From ResNets to Continuous-Depth Neural Network Models
+title: Towards Robust Machine Learning
 
 event: 3rd BMS - BGSMath Junior Meeting
-# event_url: https://example.org
+event_url: https://www.crm.cat/bms-bgsmath-junior-meeting-2022/
 
 location: Barcelona, Spain
 # address:
@@ -17,8 +17,8 @@ abstract: " "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-09-01T09:00:00Z"
-date_end: "2021-09-03T15:00:00Z"
+date: "2022-09-05T15:00:00Z"
+date_end: "2022-09-07T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -41,7 +41,7 @@ featured: false
 #   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "bmsbgsmpresentationsadiku.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
