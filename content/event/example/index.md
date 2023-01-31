@@ -14,7 +14,7 @@ location: Berlin, Germany
 
 summary: "We review classical and modern results in neural
 network approximation theory."
-abstract: "We review classical and modern results in neural network approximation theory.
+abstract: "We review classical and modern results in Neural Network Approximation Theory.
 First, the density of neural networks within different function
 spaces under various assumptions on the activation function is considered.
 Next, lower and upper bounds on the order of approximation with neural
