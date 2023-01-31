@@ -41,7 +41,7 @@ featured: false
 #   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "ssadiku.whatisseminar.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
@@ -49,7 +49,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: "ssadiku.whatisseminar.pdf"
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
