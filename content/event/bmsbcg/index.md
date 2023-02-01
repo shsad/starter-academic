@@ -12,7 +12,7 @@ location: Barcelona, Spain
 #  postcode: '94305'
 #  country: United States
 
-summary: "We provide new insights into vulnerabilities of deep learning models by showing that both training-based and basis-manipulation defense methods are significantly less effective if we restrict the generation of adversarial attacks to the low frequency discrete wavelet transform domain. "
+summary: "We provide new insights into vulnerabilities of deep learning models by showing that training-based and basis-manipulation defense methods are significantly less effective if we restrict the generation of adversarial attacks to the low frequency discrete wavelet transform domain. "
 abstract: "Despite their impressive success in various machine learning tasks, deep neural networks are vulnerable to adversarial attacks. Through the addition of imperceptible levels of distortion to a given image, such attacks can cause a learned network to quite spectacularly misclassify the perturbed input. Several defense approaches including adversarial training and methods manipulating basis function representations of images such as JPEG compression, PCA, wavelet denoising, and soft-thresholding have shown success. The former defense works well in defending against small l_p norm attacks in the pixel representation, whereas the latter methods rely on removing high frequency signal. We show that both training-based and basis-manipulation defense methods are significantly less effective if we restrict the generation of adversarial attacks to the low frequency discrete wavelet transform (DWT) domain, thus providing new insights into vulnerabilities of deep learning models. "
 
 # Talk start and end times.
