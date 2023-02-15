@@ -42,7 +42,7 @@ featured: false
 url_code: ""
 url_pdf: ""
 url_slides: "ssadiku.whatisseminar.pdf"
-url_video: ""
+url_video: "https://vimeo.com/798818414?embedded=true&source=vimeo_logo&owner=6738533"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
