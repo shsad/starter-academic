@@ -1,5 +1,5 @@
 ---
-title: Towards Robust Machine Learning
+title: Wavelet-based Low Frequency Adversarial Attacks
 
 event: 3rd BMS - BGSMath Junior Meeting
 event_url: https://www.crm.cat/bms-bgsmath-junior-meeting-2022/
