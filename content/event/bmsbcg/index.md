@@ -40,7 +40,7 @@ featured: false
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "ssadikuposter"
 url_slides: "bmsbgsmpresentationsadiku.pdf"
 url_video: ""
 
