@@ -72,7 +72,7 @@ email: ""
 highlight_name: false
 ---
 
-<div style="text-align: justify"> I am a PhD candidate at the Institute of Mathematics, Technische Universität Berlin, working under the supervision of <a href="http://www.pokutta.com/">Prof. Dr. Sebastian Pokutta</a>. I am also affiliated with the Zuse Institute Berlin, where I hold a Scientific Assistant position. </div> <br/>
+<div style="text-align: justify"> I am a PhD candidate at the Institute of Mathematics, Technische Universität Berlin, working under the supervision of <a href="http://www.pokutta.com/">Prof. Dr. Sebastian Pokutta</a>. I am also affiliated with the <a href="https://iol.zib.de/">Interactive Optimization and Learning (IOL)</a> research lab at the Zuse Institute Berlin, where I hold a Scientific Assistant position. </div> <br/>
 <div style="text-align: justify"> I received an MSc in Mathematics in Data Science under the supervision of <a href="http://www-m5.ma.tum.de/Allgemeines/MichaelWolf">Prof. Dr. Michael Wolf</a> at the Technical University of Munich in May 2020 and a BSc in Mathematics at the University of Tirana in July 2017.</div> <br/>
 <div style="text-align: justify"> My research interests lie at the interface of deep learning and optimal control, with a primary focus on developing efficient deep learning optimization algorithms of constant memory cost. Currently, I am using the Maximum Principle to study the (continuous) dynamical system approach to deep learning.</div> <br/>
 My academic resumé can be found {{< staticref "media/ssadiku.cv.pdf" "newtab" >}}here{{< /staticref >}}.
