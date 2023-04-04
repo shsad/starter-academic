@@ -20,7 +20,7 @@ organizations:
 # Interests to show in About widget
 interests:
 - Adversarial Machine Learning
-- Explainable Artificial Intelligence
+- Explainable Artificial Intelligence (XAI)
 
 
 # Education to show in About widget
