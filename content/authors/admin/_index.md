@@ -19,8 +19,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Theoretical Deep Learning
-- Robust Machine Learning
+- Adversarial Machine Learning
 - Explainable Artificial Intelligence
 
 
