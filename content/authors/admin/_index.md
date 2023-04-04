@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD, Mathematics
     institution: Technische Universität Berlin
-    year: 2024 (exp.)
+    year: 2025 (exp.)
   - course: MSc, Mathematics in Data Science
     institution: Technical University of Munich
     year: 2020
