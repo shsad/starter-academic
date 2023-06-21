@@ -19,8 +19,8 @@ organizations:
 
 # Interests to show in About widget
 interests:
+- Computer Vision
 - Adversarial Machine Learning
-- Explainable Artificial Intelligence (XAI)
 
 
 # Education to show in About widget
