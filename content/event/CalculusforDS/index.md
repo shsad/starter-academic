@@ -12,8 +12,8 @@ location: Berlin, Germany
 #  postcode: '94305'
 #  country: United States
 
-summary: "We revisit the Backpropagation algorithm, widely used by practitioners to train Deep Neural Networks."
-abstract: "Deep Neural Networks (DNNs) are a composition of several vector-valued functions. In order to train DNNs, it is necessary to calculate the gradient of the error function with respect to all parameters. As the error function of a DNN consists of several nonlinear functions, each with numerous parameters, this calculation is not trivial. We revisit the Backpropagation (BP) algorithm, widely used by practitioners to train DNNs. By leveraging the composite structure of the DNNs, we show that the BP algorithm is able to efficiently compute the gradient and that the number of layers in the network does not significantly impact the complexity of the calculation."
+# summary: "We revisit the Backpropagation algorithm, widely used by practitioners to train Deep Neural Networks."
+# abstract: "Deep Neural Networks (DNNs) are a composition of several vector-valued functions. In order to train DNNs, it is necessary to calculate the gradient of the error function with respect to all parameters. As the error function of a DNN consists of several nonlinear functions, each with numerous parameters, this calculation is not trivial. We revisit the Backpropagation (BP) algorithm, widely used by practitioners to train DNNs. By leveraging the composite structure of the DNNs, we show that the BP algorithm is able to efficiently compute the gradient and that the number of layers in the network does not significantly impact the complexity of the calculation."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
