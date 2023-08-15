@@ -1,8 +1,8 @@
 ---
-title: What is Backpropagation?
+title: Calculus for Data Science
 
-event: What is ...? Seminar
-event_url: https://whatisseminar.xyz/
+event: Hertie School Data Science Summer School
+event_url: [https://whatisseminar.xyz/](https://ds3.ai/2023/calculus.html)
 
 location: Berlin, Germany
 # address:
@@ -17,8 +17,8 @@ abstract: "Deep Neural Networks (DNNs) are a composition of several vector-value
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-02-10T13:00:00Z"
-date_end: "2023-02-10T13:30:00Z"
+date: "2023-08-17T10:00:00Z"
+date_end: "2023-08-17T14:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -41,8 +41,8 @@ featured: false
 #   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "ssadiku.whatisseminar.pdf"
-url_video: "https://vimeo.com/798818414?embedded=true&source=vimeo_logo&owner=6738533"
+url_slides: "CalculusforDS.pdf"
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
