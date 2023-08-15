@@ -1,8 +1,8 @@
 ---
-title: What is Backpropagation?
+title: Calculus for Data Science
 
-event: What is ...? Seminar
-event_url: https://whatisseminar.xyz/
+event: Hertie School Data Science Summer School 2023
+event_url: https://ds3.ai/2023/calculus.html
 
 location: Berlin, Germany
 # address:
