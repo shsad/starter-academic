@@ -18,7 +18,7 @@ location: Berlin, Germany
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2023-08-16T10:00:00Z"
-date_end: "2023-06-16T14:00:00Z"
+date_end: "2023-08-16T14:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -42,7 +42,7 @@ featured: false
 url_code: ""
 url_pdf: ""
 url_slides: "LinearAlgebraforDS.pdf"
-url_video: ""
+url_video: "https://ds3.ai/2023/linear-algebra.html"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
