@@ -42,7 +42,7 @@ featured: false
 url_code: ""
 url_pdf: ""
 url_slides: "CalculusforDS.pdf"
-url_video: ""
+url_video: "https://ds3.ai/2023/calculus.html"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
