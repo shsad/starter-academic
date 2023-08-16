@@ -42,7 +42,7 @@ featured: false
 url_code: ""
 url_pdf: ""
 url_slides: "SadikuCalculusforDS.pdf"
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=ARtPmA0953I&ab_channel=HertieSchoolDataScienceLab"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
