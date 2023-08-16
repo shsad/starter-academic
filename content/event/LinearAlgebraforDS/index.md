@@ -42,7 +42,7 @@ featured: false
 url_code: ""
 url_pdf: ""
 url_slides: "SadikuLinearAlgebraforDS.pdf"
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=dGrJynWSxpg&t=7s"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
