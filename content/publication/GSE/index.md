@@ -54,7 +54,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'ssadikuthesisslides.pdf'
+url_slides: '2311.17434.pdf'
 url_source: ''
 url_video: ''
 
