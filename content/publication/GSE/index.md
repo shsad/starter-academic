@@ -1,5 +1,5 @@
 ---
-title: "Adversarial Deformations for Neural Ordinary Differential Equations"
+title: "Group-wise Sparse and Explainable Adversarial Attacks"
 
 
   
@@ -25,19 +25,19 @@ publishDate: "2023-11-29T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["7"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
 
-abstract:  We present a concise optimal control optimization approach to continuous-depth deep learning models by discussing ideas and algorithms derived from the optimality conditions of the powerful Pontryagin's Maximum Principle. The new emerging field of constant memory cost models, however, is vulnerable to adversarial attacks. Apart from highlighting the inconsistency of neural networks theoretically, we experiment with adversarial deformations for neural ordinary differential equations on MNIST and compare our results to convolutional neural-network based architectures. 
+abstract:  Sparse adversarial attacks fool deep neural networks (DNNs) through minimal pixel perturbations, typically regularized by the l_0 norm. Recent efforts have replaced this norm with a structural sparsity regularizer, such as the nuclear group norm, to craft group-wise sparse adversarial attacks. The resulting perturbations are thus explainable and hold significant practical relevance, shedding light on an even greater vulnerability of DNNs than previously anticipated. However, crafting such attacks poses an optimization challenge, as it involves computing norms for groups of pixels within a non-convex objective. In this paper, we tackle this challenge by presenting an algorithm that simultaneously generates group-wise sparse attacks within semantically meaningful areas of an image. In each iteration, the core operation of our algorithm involves the optimization of a quasinorm adversarial loss. This optimization is achieved by employing the 1/2-quasinorm proximal operator for some iterations, a method tailored for nonconvex programming. Subsequently, the algorithm transitions to a projected Nesterov's accelerated gradient descent with 2-norm regularization applied to perturbation magnitudes. We rigorously evaluate the efficacy of our novel attack in both targeted and non-targeted attack scenarios, on CIFAR-10 and ImageNet datasets. When compared to state-of-the-art methods, our attack consistently results in a remarkable increase in group-wise sparsity, e.g., an increase of 48.12% on CIFAR-10 and 40.78% on ImageNet (average case, targeted attack), all while maintaining lower perturbation magnitudes. Notably, this performance is complemented by a significantly faster computation time and a 100% attack success rate.
 
 
 
 # Summary. An optional shortened abstract.
-summary: We present a concise optimal control optimization approach to continuous-depth deep learning models by discussing ideas and algorithms derived from the optimality conditions of the powerful Pontryagin's Maximum Principle. The new emerging field of constant memory cost models, however, is vulnerable to adversarial attacks. Apart from highlighting the inconsistency of neural networks theoretically, we experiment with adversarial deformations for neural ordinary differential equations on MNIST and compare our results to convolutional neural-network based architectures.
+summary: Sparse adversarial attacks fool deep neural networks (DNNs) through minimal pixel perturbations, typically regularized by the l_0 norm. Recent efforts have replaced this norm with a structural sparsity regularizer, such as the nuclear group norm, to craft group-wise sparse adversarial attacks. The resulting perturbations are thus explainable and hold significant practical relevance, shedding light on an even greater vulnerability of DNNs than previously anticipated. However, crafting such attacks poses an optimization challenge, as it involves computing norms for groups of pixels within a non-convex objective. In this paper, we tackle this challenge by presenting an algorithm that simultaneously generates group-wise sparse attacks within semantically meaningful areas of an image. In each iteration, the core operation of our algorithm involves the optimization of a quasinorm adversarial loss. This optimization is achieved by employing the 1/2-quasinorm proximal operator for some iterations, a method tailored for nonconvex programming. Subsequently, the algorithm transitions to a projected Nesterov's accelerated gradient descent with 2-norm regularization applied to perturbation magnitudes. We rigorously evaluate the efficacy of our novel attack in both targeted and non-targeted attack scenarios, on CIFAR-10 and ImageNet datasets. When compared to state-of-the-art methods, our attack consistently results in a remarkable increase in group-wise sparsity, e.g., an increase of 48.12% on CIFAR-10 and 40.78% on ImageNet (average case, targeted attack), all while maintaining lower perturbation magnitudes. Notably, this performance is complemented by a significantly faster computation time and a 100% attack success rate.
 
 tags: []
 
@@ -62,7 +62,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  caption: "Adversarial deformations for ODE-net. First row: Original images from the MNIST test set. Second row: The deformed images. See thesis for details."
+  caption: "Targeted adversarial examples generated by GSE. The target is \q{airship} for the first two rows, and \q{golf cart} for the last two rows. See article for details."
   focal_point: ""
   preview_only: false
 
