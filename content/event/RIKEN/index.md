@@ -1,5 +1,5 @@
 ---
-title: Minimally Distorted Interpretable Adversarial Attacks
+title: Minimally Distorted Explainable Adversarial Attacks
 
 event: AIP Seminar, RIKEN Center for Advanced Intelligence Project (AIP)
 event_url: https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/160875
@@ -13,7 +13,7 @@ location: Tokyo, Japan
 #  country: United States
 
 summary: "We provide a new technique to generate highly sparse and explainable adversarial attacks. "
-abstract: "Sparse adversarial attack approaches can be unified in a framework that is often based on a convex relaxation of the domain of the generated perturbation. However, there is a priori no real need for convexity relaxation. We consider generating adversarial images with a non-convex loss in a non-convex l_p neighbourhood of an input image, thus stepping away from the l_0 combinatorial problem while remaining as continuous but sparser than the l_1 ball. We formalise the concept of finding adversarial examples as an explicit optimization problem for the special case of p=1/2, for which we have access to an efficient proximal operator. In order to enhance the interpretability of generated attacks, we adjust the regularization parameter of the perturbation for each pixel separately. This modification increases the likelihood of perturbing pixels that are in proximity to the already perturbed pixels. Experiments show that our method computes highly sparse and interpretable adversarial examples for ImageNet models."
+abstract: "Sparse adversarial attack approaches can be unified in a framework that is often based on a convex relaxation of the domain of the generated perturbation. However, there is a priori no real need for convexity relaxation. We consider generating adversarial images with a non-convex loss in a non-convex l_p neighbourhood of an input image, thus stepping away from the l_0 combinatorial problem while remaining as continuous but sparser than the l_1 ball. We formalise the concept of finding adversarial examples as an explicit optimization problem for the special case of p=1/2, for which we have access to an efficient proximal operator. To enhance the interpretability of generated attacks, we adjust the regularization parameter of the perturbation for each pixel separately. This modification increases the likelihood of perturbing pixels close to the already perturbed pixels. Experiments show that our method computes highly sparse and interpretable adversarial examples for ImageNet models."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
